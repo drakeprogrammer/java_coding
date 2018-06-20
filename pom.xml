@@ -6,7 +6,11 @@
 
 	<groupId>pl.drakeprogrammer</groupId>
 	<artifactId>java_coding</artifactId>
+	<packaging>pom</packaging>
 	<version>0.0.1-SNAPSHOT</version>
+	<modules>
+		<module>journaldev</module>
+	</modules>
 
 	<name>java_coding</name>
 	<!-- FIXME change it to the project's website -->
